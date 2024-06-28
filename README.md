@@ -1,2 +1,1 @@
-# 4Fun-Global
-4Fun-Global
+## Store images for client 12x. [OTServBR-Global](https://github.com/opentibiabr/OTServBR-Global)
